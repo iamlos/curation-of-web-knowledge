@@ -3,10 +3,12 @@ A colleague of mine is new to web development, and is hoovering it up, I thought
 
 I hope it can serve a purpose - one can hope!
 
+
 # Contents
 
 ##### 1) [CSS Tricks: Truncation, Pseudo Classes & Elements](./episodes/1.md)
 ##### 2) [SEO Basics: HTML Meta Elements](./episodes/2.md)
+
 
 You may also want to subscribe to, or keep an eye on these technology blogs/directories/respositories:
 ##### [Sites-to-Read List](./resources/sites-to-read.md)
