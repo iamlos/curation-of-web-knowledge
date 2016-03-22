@@ -7,3 +7,8 @@ I hope it can serve a purpose and help someone else - one can hope!
 
 ##### 1) [CSS Tricks: Truncation, Pseudo Classes & Elements](./episodes/1.md)
 ##### 2) [SEO Basics: HTML Meta Elements](./episodes/2.md)
+
+# Sites to keep an eye on
+
+##### [Sites-to-Read List](./resources/sites-to-read.md)
+
