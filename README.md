@@ -8,7 +8,6 @@ I hope it can serve a purpose and help someone else - one can hope!
 ##### 1) [CSS Tricks: Truncation, Pseudo Classes & Elements](./episodes/1.md)
 ##### 2) [SEO Basics: HTML Meta Elements](./episodes/2.md)
 
-# Sites to keep an eye on
-
+You may also want to subscribe to, or keep an eye on these technology blogs/directories/respositories:
 ##### [Sites-to-Read List](./resources/sites-to-read.md)
 
