@@ -9,7 +9,7 @@ I hope it can serve a purpose - one can hope!
 ##### 2) [SEO Basics: HTML Meta Elements](./episodes/2.md)
 
 
-# More Resources...
+### More Resources...
 You may also want to subscribe to, or keep an eye on these technology blogs/directories/respositories:
 ##### [Sites-to-Read List](./resources/sites-to-read.md)
 
