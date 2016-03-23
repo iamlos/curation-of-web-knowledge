@@ -1,6 +1,7 @@
 # Some websites to read...
 There's a number of regularly updated web development blogs, directories, repositories, and knowledgebases that are worth linking :-
 
+##### 0) [Hacker News](https://news.ycombinator.com/show) 
 ##### 1) [Code Visually](http://www.codevisually.com)
 ##### 2) [Code with Coffee](http://www.codewithcoffee.com/)
 ##### 3) [Web Tools Weekly](http://webtoolsweekly.com/#archive)
