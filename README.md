@@ -8,7 +8,7 @@ I hope it can serve a purpose - one can hope!
 ##### 1) [CSS Tricks: Truncation, Pseudo Classes & Elements](./episodes/1.md)
 ##### 2) [SEO Basics: HTML Meta Elements](./episodes/2.md)
 ##### 3) [CSS tricks: Text Shadows & Cards (Text over Images)](./episodes/3.md)
-##### 4) [A list of everything that could go in the <head> of your document](./episodes/4.md)
+##### 4) [A list of everything that could go in the head of your document](./episodes/4.md)
 
 ### More Resources...
 You may also want to subscribe to, or keep an eye on these technology blogs/directories/respositories:
