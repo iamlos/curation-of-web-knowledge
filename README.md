@@ -4,7 +4,7 @@ A colleague of mine is new to web development, and is hoovering it up, I thought
 I hope it can serve a purpose - one can hope!
 
 
-># Contents
+>### Contents
 >>##### 1) [CSS Tricks: Truncation, Pseudo Classes & Elements](./episodes/1.md)
 >>##### 2) [SEO Basics: HTML Meta Elements](./episodes/2.md)
 >>##### 3) [CSS tricks: Text Shadows & Cards (Text over Images)](./episodes/3.md)
