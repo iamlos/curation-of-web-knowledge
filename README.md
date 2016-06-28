@@ -1,4 +1,4 @@
-# web-knowledge-invokers
+# Curation of Web Knowledge
 A colleague of mine is new to web development, and is hoovering it up, I thought it would be helpful to pull together daily and weekly "heads up" items for him, others, and even I, to digest - this repository is the output of that endeavour.
 
 I hope it can serve a purpose - one can hope!
